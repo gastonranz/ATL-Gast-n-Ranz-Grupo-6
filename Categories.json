@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Music",
+    "description": "Question about the greatest artist and the greatest hits ever."
+  },
+  {
+    "category": "Cinema",
+    "description": "Question about movies, actors & actresses, directors, scenes."
+  },
+  {
+    "category": "Sport",
+    "description": "Question about sports, games, teams, world iconic events."
+  },
+  {
+    "category": "Art",
+    "description": "Do you like art? Are you ready to get into the beautiful world of art?."
+  },
+  {
+    "category": "Geography",
+    "description": "How do you know about our countries, earth and locations?."
+  },
+  {
+    "category": "History",
+    "description": "Let's get started into the history about us, about the world."
+  }
+]
