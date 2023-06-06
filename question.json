@@ -1,7 +1,7 @@
 {
-  "category": "music",
-  "question": "Who wrote the lyrics of the iconic song \"We Are The World\"?",
+  "category": "Music",
+  "question": "Who wrote the lyrics of the iconic song \"We Are the World\"?",
   "question_options": ["Michael Bolton & Tina Turner", "Donna Summer & Kim Carnes", "Lionel Richie & Michael Jackson", "Elthon John & Bruce Springsteen"],
   "answer": 2,
-  "explanation": "Lionel Richie & Michael Jackson were the singers who wrote the song \"We Are the World\" played among one of the greatest singer in the world in the year 1985."
+  "explanation": "Lionel Richie & Michael Jackson were the singers who wrote the song \"We Are the World\" inspired by Band Aid's \"Do They Know It's Christmas?\". They played the song among one of the greatest singers in the world in the year 1985."
 }
